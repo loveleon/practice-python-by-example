@@ -1,0 +1,11 @@
+if __name__ == '__main__':
+    print("2 < 3",2<3)
+    print("3 <= 3",3<=3)
+    print("3 > 2", 3>2)
+    print("4 >= 4",4>=4)
+    print("4 == 4",4==4)
+    print("4.001 == 4.01",4.001 == 4.01)
+    print("Sam == Bob",'Sam' == 'Bob')
+    print(" 4 != 4", 4 != 4)
+    print("4.01 != 4.001",4.01 != 4.001)
+    print("Sam != Bob",'Sam' != 'Bob')
